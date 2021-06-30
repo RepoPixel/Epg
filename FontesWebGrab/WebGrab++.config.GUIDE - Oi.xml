@@ -1,0 +1,175 @@
+﻿<?xml version="1.0"?>
+<settings>
+  <license wg-username="betogusto2504" registered-email="betogusto2504@gmail.com" password="1239f7bc"></license>
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <logging>on</logging>
+  <retry time-out="30">4</retry>
+  <timespan>8</timespan>
+  <update>f</update>
+
+<!-- GUIA DE PROGRAMACAO COMPLETO -->
+
+    <channel update="i" site="oi.com.br"       site_id="77795"                          xmltv_id="AE">A&amp;E HD</channel>
+    <channel update="i" site="netcombo.com.br" site_id="2359##agro_mais_hd"             xmltv_id="AGROMAIS">Agro Mais HD </channel>
+    <channel update="i" site="netcombo.com.br" site_id="1619##amc_hd"                   xmltv_id="AMC">AMC HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="18651"                          xmltv_id="ANIMALPLANET">Animal Palnet</channel>
+    <channel update="i" site="netcombo.com.br" site_id="1177##tv_aparecida"             xmltv_id="APARECIDA">TV Aparecida</channel>
+    <channel update="i" site="oi.com.br"       site_id="79689"                          xmltv_id="ARTE1">Arte 1</channel>
+    <channel update="i" site="oi.com.br"       site_id="75580"                          xmltv_id="AXN">AXN HD</channel>
+    <channel update="i" site="meuguia.tv"      site_id="BAB"                            xmltv_id="BABYTV">Baby TV</channel>
+    <channel update="i" site="oi.com.br"       site_id="103711"                         xmltv_id="BANDEIRANTES">Band</channel>
+    <channel update="i" site="oi.com.br"       site_id="54679"                          xmltv_id="BANDNEWS">Band News HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="94563"                          xmltv_id="BANDSPORTS">Band Sports</channel>
+    <channel update="i" site="meuguia.tv"      site_id="BHD"                            xmltv_id="BBCWORLD">BBC World</channel>
+    <channel update="i" site="oi.com.br"       site_id="94122"                          xmltv_id="BIS">BIS</channel>
+    <channel update="i" site="meuguia.tv"      site_id="BIT"                            xmltv_id="BLOOMBERG">Bloomberg</channel>
+    <channel update="i" site="oi.com.br"       site_id="75800"                          xmltv_id="BOAVONTADETV">Boa Vontade TV</channel>
+    <channel update="i" site="oi.com.br"       site_id="54594"                          xmltv_id="BOOMERANG">Boomerang HD</channel>
+    <channel update="i" site="meuguia.tv"      site_id="CNV"                            xmltv_id="CANONOVA">Cancao Nova</channel>
+    <channel update="i" site="oi.com.br"       site_id="75582"                          xmltv_id="CANALBRASIL">Canal Brasil</channel>
+    <channel update="i" site="netcombo.com.br" site_id="509##canal_do_boi"              xmltv_id="CANALDOBOI">Canal do Boi</channel>
+    <channel update="i" site="oi.com.br"       site_id="38704"                          xmltv_id="CANALRURAL">Canal Rural</channel>
+    <channel update="i" site="oi.com.br"       site_id="16142"                          xmltv_id="CARTOONNETWORK">Cartoon Network HD</channel>
+    <channel update="i" site="netcombo.com.br" site_id="2358##cgtn"                     xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="oi.com.br"       site_id="75583"                          xmltv_id="CINEMAX">Cinemax HD</channel>
+    <channel update="i" site="meuguia.tv"      site_id="CLI"                            xmltv_id="CLIMATEMPO">Climatempo</channel>
+    <channel update="i" site="oi.com.br"       site_id="114159"                         xmltv_id="CNNBRASIL">CNN Brasil</channel>
+    <channel update="i" site="meuguia.tv"      site_id="CNN"                            xmltv_id="CNNI">CNN International</channel>
+    <channel update="i" site="oi.com.br"       site_id="105128"                         xmltv_id="CNT">CNT Rio</channel>
+    <channel update="i" site="netcombo.com.br" site_id="1027##combate_hd"               xmltv_id="COMBATE">Combate</channel>
+    <channel update="i" site="oi.com.br"       site_id="75832"                          xmltv_id="COMEDYCENTRAL">Comedy Central HD</channel>
+    <channel update="i" site="vcfaz.tv"        site_id="231"                            xmltv_id="CONMEBOLTV1">CONMEBOL TV 1</channel>
+    <channel update="i" site="vcfaz.tv"        site_id="232"                            xmltv_id="CONMEBOLTV2">CONMEBOL TV 2</channel>
+    <channel update="i" site="vcfaz.tv"        site_id="233"                            xmltv_id="CONMEBOLTV3">CONMEBOL TV 1</channel>
+    <channel update="i" site="vcfaz.tv"        site_id="234"                            xmltv_id="CONMEBOLTV4">CONMEBOL TV 4</channel>
+    <channel update="i" site="oi.com.br"       site_id="79639"                          xmltv_id="CURTA">Curta</channel>
+    <channel update="i" site="meuguia.tv"      site_id="DWL"                            xmltv_id="DEUTSCHEWELLE">Deutsche Welle</channel>
+    <channel update="i" site="oi.com.br"       site_id="79018"                          xmltv_id="DISCOVERYCHANNEL">Discovery</channel>
+    <channel update="i" site="oi.com.br"       site_id="83208"                          xmltv_id="DISCOVERYHH">Disc HH</channel>
+    <channel update="i" site="oi.com.br"       site_id="18650"                          xmltv_id="DISCOVERYKIDS">Discovery Kids HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="56075"                          xmltv_id="DISCOVERYSCIENCE">Disc Science</channel>
+    <channel update="i" site="netcombo.com.br" site_id="877##discovery_theater_hd_"     xmltv_id="DISCOVERYTHEATERHD">Disc Theater</channel>
+    <channel update="i" site="oi.com.br"       site_id="56076"                          xmltv_id="DISCOVERYTURBO">Disc Turbo</channel>
+    <channel update="i" site="oi.com.br"       site_id="75605"                          xmltv_id="DISCOVERYWORLD">Disc World</channel>
+    <channel update="i" site="oi.com.br"       site_id="54592"                          xmltv_id="DISNEY">Disney HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="77933"                          xmltv_id="DISNEYJUNIOR">Disney Jr.</channel>
+    <channel update="i" site="oi.com.br"       site_id="45034"                          xmltv_id="DISNEYXD">Disney XD</channel>
+    <channel update="i" site="netcombo.com.br" site_id="2289##dogtv_hd"                 xmltv_id="DOGTV">DogTV HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="16238"                          xmltv_id="E">E!</channel>
+    <channel update="i" site="oi.com.br"       site_id="10179"                          xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="oi.com.br"       site_id="77747"                          xmltv_id="ESPNBRASIL">ESPN Brasil</channel>
+    <channel update="i" site="netcombo.com.br" site_id="2251##espn_2_hd"                xmltv_id="ESPN+">ESPN 2</channel>
+    <channel update="i" site="netcombo.com.br" site_id="2239##espn_extra_hd"            xmltv_id="ESPNEXTRAHD">ESPN Extra</channel>
+    <channel update="i" site="netcombo.com.br" site_id="2309##eurochannel_hd"           xmltv_id="EUROCHANNEL">Eurochannel HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="98036"                          xmltv_id="FASHIONTV">Fashion TV</channel>
+    <channel update="i" site="vcfaz.tv"        site_id="BRA"                            xmltv_id="FILMARTS">Film Arts</channel>
+    <channel update="i" site="oi.com.br"       site_id="110390"                         xmltv_id="FISHTV">Fish TV HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="100898"                         xmltv_id="FOXPREMIUM1HD">FOX Premium 1 HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="100906"                         xmltv_id="FOXPREMIUM2HD">FOX Premium 2 HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="75586"                          xmltv_id="FOX">FOX Channel HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="98922"                          xmltv_id="FX">FX HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="20386"                          xmltv_id="FUTURA">Futura</channel>
+    <channel update="i" site="oi.com.br"       site_id="55882"                          xmltv_id="FOXLIFE">Fox Life</channel>
+    <channel update="i" site="oi.com.br"       site_id="76100"                          xmltv_id="FOXSPORTS">FOX Sports</channel>
+    <channel update="i" site="oi.com.br"       site_id="86787"                          xmltv_id="FOXSPORTS2">FOX Sports 2</channel>
+    <channel update="i" site="netcombo.com.br" site_id="935##food_network_hd"           xmltv_id="FOODNETWORKHD">Food Network</channel>
+    <channel update="i" site="netcombo.com.br" site_id="480##tv5_monde"                 xmltv_id="FRANCE24HD">France 24</channel>
+    <channel update="i" site="oi.com.br"       site_id="95744"                          xmltv_id="GLOBONEWS">Globo News</channel>
+    <channel update="i" site="oi.com.br"       site_id="74979"                          xmltv_id="GLOBOSATHD">Mais na Tela HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="76937"                          xmltv_id="GLOBOSP">Globo</channel>
+    <channel update="i" site="oi.com.br"       site_id="78083"                          xmltv_id="GLOOB">Gloob HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="105759"                         xmltv_id="GLOOBINHO">Gloobinho</channel>
+    <channel update="i" site="oi.com.br"       site_id="79019"                          xmltv_id="GNT">GNT</channel>
+    <channel update="i" site="oi.com.br"       site_id="90307"                          xmltv_id="H2">History 2</channel>
+    <channel update="i" site="oi.com.br"       site_id="76101"                          xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="oi.com.br"       site_id="98075"                          xmltv_id="HBO2">HBO 2</channel>
+    <channel update="i" site="oi.com.br"       site_id="98096"                          xmltv_id="HBOFAMILY">HBO Family</channel>
+    <channel update="i" site="oi.com.br"       site_id="69097"                          xmltv_id="MAX">HBO Mundi</channel>
+    <channel update="i" site="oi.com.br"       site_id="98076"                          xmltv_id="HBOPLUS">HBO Plus</channel>
+    <channel update="i" site="oi.com.br"       site_id="75590"                          xmltv_id="MAXUP">HBO Pop</channel>
+    <channel update="i" site="oi.com.br"       site_id="98088"                          xmltv_id="HBOSIGNATURE">HBO Signature</channel>
+    <channel update="i" site="oi.com.br"       site_id="54590"                          xmltv_id="MAXPRIMEHD">HBO Xtreme</channel>
+    <channel update="i" site="netcombo.com.br" site_id="2312##hgtv_hd"                  xmltv_id="HGTV">HGTV HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="16269"                          xmltv_id="LIV">ID - Investigação Discovery HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="89295"                          xmltv_id="LIFETIME">Lifetime HD</channel>
+    <channel update="i" site="netcombo.com.br" site_id="2213##like_hd"                  xmltv_id="LIKEHD">Like</channel>
+    <channel update="i" site="vcfaz.tv"        site_id="LOH"                            xmltv_id="LOVENATUREHD">Love Nature</channel>
+    <channel update="i" site="oi.com.br"       site_id="78130"                          xmltv_id="MEGAPIX">Megapix HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="15416"                          xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="vcfaz.tv"        site_id="MTL"                            xmltv_id="MTVLIVEHD">MTV Live HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="78181"                          xmltv_id="MULTISHOW">Multishow</channel>
+    <channel update="i" site="oi.com.br"       site_id="94895"                          xmltv_id="MUSICBOXBRAZIL">Music Box Brazil</channel>
+    <channel update="i" site="oi.com.br"       site_id="95745"                          xmltv_id="NATIONALGEOGRAPHIC">Nat Geo</channel>
+    <channel update="i" site="oi.com.br"       site_id="105758"                         xmltv_id="NATGEOKIDS">Nat Geo Kids HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="75593"                          xmltv_id="NATGEOWILDHD">Nat Geo Wild</channel>
+    <channel update="i" site="netcombo.com.br" site_id="461##nhk_world_premium"         xmltv_id="NHK">NHK World</channel>
+    <channel update="i" site="oi.com.br"       site_id="75919"                          xmltv_id="NICKELODEON">Nickelodeon HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="78242"                          xmltv_id="NICKJR">Nick Jr. HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="75918"                          xmltv_id="OFFHD">OFF</channel>
+    <channel update="i" site="netcombo.com.br" site_id="2285##tv_pai_eterno"            xmltv_id="PAIETERNO"> TV Pai Eterno HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="90944"                          xmltv_id="PARAMOUNT">Paramount Channel HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="75915"                          xmltv_id="POLISHOP">Polishop</channel>
+    <channel update="i" site="oi.com.br"       site_id="19783"                          xmltv_id="PLAYBOYTV">Playboy</channel>
+    <channel update="i" site="oi.com.br"       site_id="78279"                          xmltv_id="PRIMEBOXBRAZIL">Prime Box Brazil HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="56084"                          xmltv_id="PREMIERECLUBES">Premiere Clubes</channel>
+    <channel update="i" site="oi.com.br"       site_id="95288"                          xmltv_id="PREMIERE2">Premiere 2</channel>
+    <channel update="i" site="oi.com.br"       site_id="95290"                          xmltv_id="PREMIERE3">Premiere 3</channel>
+    <channel update="i" site="oi.com.br"       site_id="56087"                          xmltv_id="PREMIERE4">Premiere 4</channel>
+    <channel update="i" site="oi.com.br"       site_id="98136"                          xmltv_id="PREMIERE5">Premiere 5</channel>
+    <channel update="i" site="oi.com.br"       site_id="98139"                          xmltv_id="PREMIERE6">Premiere 6</channel>
+    <channel update="i" site="oi.com.br"       site_id="78275"                          xmltv_id="PREMIERE7">Premiere 7</channel>
+    <channel update="i" site="netcombo.com.br" site_id="1372##rai_international"        xmltv_id="RAI">RAI International</channel>
+    <channel update="i" site="oi.com.br"       site_id="104206"                         xmltv_id="REDERECORD">Rede Record</channel>
+    <channel update="i" site="oi.com.br"       site_id="103750"                         xmltv_id="REDETV">Rede TV</channel>
+    <channel update="i" site="oi.com.br"       site_id="38059"                          xmltv_id="REDEVIDA">Rede Vida</channel>
+    <channel update="i" site="meuguia.tv"      site_id="RIT"                            xmltv_id="RIT">Rede Internacional de TV</channel>
+    <channel update="i" site="oi.com.br"       site_id="98757"                          xmltv_id="SBT">SBT</channel>
+    <channel update="i" site="oi.com.br"       site_id="16398"                          xmltv_id="SHOPTIME">Shoptime</channel>
+    <channel update="i" site="meuguia.tv"      site_id="SIC"                            xmltv_id="SIC">SIC International</channel>
+    <channel update="i" site="meuguia.tv"      site_id="SMI"                            xmltv_id="SMITHSONIANHD">Smithsonian Channel</channel>  
+    <channel update="i" site="oi.com.br"       site_id="75596"                          xmltv_id="SONY">Sony Channel HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="75598"                          xmltv_id="SPACE">Space HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="94567"                          xmltv_id="SPORTV">SporTV</channel>
+    <channel update="i" site="oi.com.br"       site_id="94568"                          xmltv_id="SPORTV2">SporTV 2</channel>
+    <channel update="i" site="oi.com.br"       site_id="94570"                          xmltv_id="SPORTV3">SporTV 3</channel>
+    <channel update="i" site="oi.com.br"       site_id="16427"                          xmltv_id="STUDIOUNIVERSAL">Studio Universal HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="75599"                          xmltv_id="SYFY">Syfy HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="83277"                          xmltv_id="TBS">TBS HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="56102"                          xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="oi.com.br"       site_id="78306"                          xmltv_id="TELECINEPREMIUM">Telecine Premium</channel>
+    <channel update="i" site="oi.com.br"       site_id="75600"                          xmltv_id="TELECINEACTION">Telecine Action</channel>
+    <channel update="i" site="oi.com.br"       site_id="84420"                          xmltv_id="TELECINECULT">Telecine Cult</channel>
+    <channel update="i" site="oi.com.br"       site_id="78314"                          xmltv_id="TELECINEFUN">Telecine Fun</channel>
+    <channel update="i" site="oi.com.br"       site_id="75603"                          xmltv_id="TELECINEPIPOCA">Telecine Pipoca</channel>
+    <channel update="i" site="oi.com.br"       site_id="78304"                          xmltv_id="TELECINETOUCH">Telecine Touch</channel>
+    <channel update="i" site="meuguia.tv"      site_id="TVV"                            xmltv_id="TERRAVIVA">Terra Viva</channel>
+    <channel update="i" site="netcombo.com.br" site_id="2284##the_history_channel_hd_"  xmltv_id="THEHISTORYCHANNEL">History</channel>
+    <channel update="i" site="oi.com.br"       site_id="75606"                          xmltv_id="TNT">TNT HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="97987"                          xmltv_id="TNTSERIES">TNT Séries HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="83240"                          xmltv_id="TOONCAST">Tooncast</channel>
+    <channel update="i" site="vcfaz.tv"        site_id="TRA"                            xmltv_id="TRACEBRAZUCAHD">Trace Brazuca HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="73859"                          xmltv_id="TRAVELANDLIVINGCHANNEL">TLC</channel>
+    <channel update="i" site="oi.com.br"       site_id="113574"                         xmltv_id="TRAVELBOXBRAZIL">Travel Box Brazil</channel>
+    <channel update="i" site="netcombo.com.br" site_id="2181##tv_brasil_hd"             xmltv_id="TVBRASIL">TV Brasil</channel>
+    <channel update="i" site="meuguia.tv"      site_id="CAM"                            xmltv_id="TVCMARA">TV Camara</channel>
+    <channel update="i" site="netcombo.com.br" site_id="1044##cultura_hd"               xmltv_id="TVCULTURA">TV Cultura</channel>
+    <channel update="i" site="oi.com.br"       site_id="56337"                          xmltv_id="TVESCOLA">TV Escola</channel>
+    <channel update="i" site="meuguia.tv"      site_id="TVE"                            xmltv_id="TVESPANHA">TV Espanha</channel>
+    <channel update="i" site="netcombo.com.br" site_id="1292##gazeta_hd"                xmltv_id="TVGAZETA">TV Gazeta [Brazil]</channel>
+    <channel update="i" site="netcombo.com.br" site_id="1292##gazeta_hd"                xmltv_id="TVGAZETAHD">TV Gazeta [Brazil]</channel>
+    <channel update="i" site="meuguia.tv"      site_id="TV5"                            xmltv_id="TV5MONDE">TV5 Monde</channel>
+    <channel update="i" site="meuguia.tv"      site_id="JUS"                            xmltv_id="TVJUSTIA">TV Justiça</channel>
+    <channel update="i" site="oi.com.br"       site_id="75831"                          xmltv_id="TVNOVOTEMPO">TV Novo Tempo</channel>
+    <channel update="i" site="oi.com.br"       site_id="56131"                          xmltv_id="TVRTIMBUM">TV Rá Tim Bum HD</channel>
+    <channel update="i" site="meuguia.tv"      site_id="SEN"                            xmltv_id="TVSENADO">TV Senado</channel>
+    <channel update="i" site="oi.com.br"       site_id="94571"                          xmltv_id="UNIVERSAL">Universal TV HD</channel>
+    <channel update="i" site="meuguia.tv"      site_id="VHD"                            xmltv_id="VH1">VH1 Megahits Brazil</channel>
+    <channel update="i" site="oi.com.br"       site_id="76116"                          xmltv_id="VIVA">VIVA </channel>
+    <channel update="i" site="oi.com.br"       site_id="75610"                          xmltv_id="WARNER">Warner Channel HD</channel>
+    <channel update="i" site="oi.com.br"       site_id="77820"                          xmltv_id="WOOHOO">Woohoo</channel>
+    <channel update="i" site="netcombo.com.br" site_id="2166##zoomoo_hd"                xmltv_id="ZOOMOO">ZooMoo HD</channel>
+
+</settings>
