@@ -1,0 +1,1608 @@
+﻿[        ] 
+[        ]             WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.8.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 30/06/2021 17:08:02
+[  Debug ] 
+[  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
+[  Debug ] Reading config file: C:\Users\hjr\AppData\Local\WebGrab+Plus\WebGrab++.config.xml
+[  Info  ] Checking License ..
+[  Info  ] For License request/update data, see WGLicense.log.txt
+[  Debug ] 
+[  Info  ] found: C:\Users\hjr\AppData\Local\WebGrab+Plus\siteini.pack\Brazil\oi.com.br.ini -- Revision 01
+[  Info  ] encrypted in 'new (V3)' mode
+[  Debug ] 
+[  Info  ] found: C:\Users\hjr\AppData\Local\WebGrab+Plus\siteini.pack\Brazil\netcombo.com.br.ini -- Revision 02
+[  Info  ] encrypted in 'new (V3)' mode
+[  Debug ] 
+[  Info  ] found: C:\Users\hjr\AppData\Local\WebGrab+Plus\siteini.pack\Brazil\vcfaz.tv.ini -- Revision 04
+[  Info  ] encrypted in 'new (V3)' mode
+[  Debug ] 
+[  Info  ] found: C:\Users\hjr\AppData\Local\WebGrab+Plus\siteini.pack\Brazil\meuguia.tv.ini -- Revision 05
+[  Info  ] input file C:\Users\hjr\AppData\Local\WebGrab+Plus\guide.xml not found   ... created a new one ... 
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 165 - out of - 165 - channels for 9 day(s)
+[  Debug ] 
+[  Info  ] (   1/165 ) OI.COM.BR -- chan. (xmltv_id=AE) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] error downloading page: O tempo limite da operação foi atingido (30sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: O tempo limite da operação foi atingido (30sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: O tempo limite da operação foi atingido (30sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: O tempo limite da operação foi atingido (30sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:49
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:41
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   2/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=AGROMAIS) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   3/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=AMC) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   4/165 ) OI.COM.BR -- chan. (xmltv_id=ANIMALPLANET) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:47
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:40
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   5/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=APARECIDA) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   6/165 ) OI.COM.BR -- chan. (xmltv_id=ARTE1) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:22
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   7/165 ) OI.COM.BR -- chan. (xmltv_id=AXN) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:10
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   8/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=BABYTV) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   9/165 ) OI.COM.BR -- chan. (xmltv_id=BANDEIRANTES) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:25
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  10/165 ) OI.COM.BR -- chan. (xmltv_id=BANDNEWS) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  11/165 ) OI.COM.BR -- chan. (xmltv_id=BANDSPORTS) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  12/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=BBCWORLD) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  13/165 ) OI.COM.BR -- chan. (xmltv_id=BIS) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  14/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=BLOOMBERG) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  15/165 ) OI.COM.BR -- chan. (xmltv_id=BOAVONTADETV) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:35
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:10
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  16/165 ) OI.COM.BR -- chan. (xmltv_id=BOOMERANG) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:05
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:14
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:22
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:37
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:47
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:54
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:02
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:16
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:28
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:34
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:40
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:48
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:54
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  17/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=CANONOVA) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  18/165 ) OI.COM.BR -- chan. (xmltv_id=CANALBRASIL) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:35
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  19/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=CANALDOBOI) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  20/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=CANALLEGISLATIVO) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  21/165 ) OI.COM.BR -- chan. (xmltv_id=CANALRURAL) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  22/165 ) OI.COM.BR -- chan. (xmltv_id=CARTOONNETWORK) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:05
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:21
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:32
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:47
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:59
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:14
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:29
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:41
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:52
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  23/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=CGTN) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  24/165 ) OI.COM.BR -- chan. (xmltv_id=CINEMAX) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:12
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:49
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  25/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=CLIMATEMPO) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  26/165 ) OI.COM.BR -- chan. (xmltv_id=CNNBRASIL) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  27/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=CNNI) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  28/165 ) OI.COM.BR -- chan. (xmltv_id=CNT) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:59
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  29/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=COMBATE) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  30/165 ) OI.COM.BR -- chan. (xmltv_id=COMEDYCENTRAL) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:29
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:56
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:24
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:48
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  31/165 ) VCFAZ.TV -- chan. (xmltv_id=CONMEBOLTV1) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  32/165 ) VCFAZ.TV -- chan. (xmltv_id=CONMEBOLTV2) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  33/165 ) VCFAZ.TV -- chan. (xmltv_id=CONMEBOLTV3) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  34/165 ) VCFAZ.TV -- chan. (xmltv_id=CONMEBOLTV4) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  35/165 ) OI.COM.BR -- chan. (xmltv_id=CURTA) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  36/165 ) OI.COM.BR -- chan. (xmltv_id=DEUTSCHEWELLE) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  37/165 ) OI.COM.BR -- chan. (xmltv_id=DISCOVERYCHANNEL) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:42
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:31
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  38/165 ) OI.COM.BR -- chan. (xmltv_id=DISCOVERYHH) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:42
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  39/165 ) OI.COM.BR -- chan. (xmltv_id=DISCOVERYKIDS) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:08
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:23
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:35
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:46
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:05
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:15
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:38
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  40/165 ) OI.COM.BR -- chan. (xmltv_id=DISCOVERYSCIENCE) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:12
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:48
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  41/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=DISCOVERYTHEATERHD) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  42/165 ) OI.COM.BR -- chan. (xmltv_id=DISCOVERYTURBO) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:47
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:39
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  43/165 ) OI.COM.BR -- chan. (xmltv_id=DISCOVERYWORLD) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:12
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:24
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:48
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  44/165 ) OI.COM.BR -- chan. (xmltv_id=DISNEY) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:27
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:26
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  45/165 ) OI.COM.BR -- chan. (xmltv_id=DISNEYJUNIOR) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:31
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:46
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:02
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:18
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:33
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:58
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  46/165 ) OI.COM.BR -- chan. (xmltv_id=DISNEYXD) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:24
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:49
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  47/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=DOGTV) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  48/165 ) OI.COM.BR -- chan. (xmltv_id=E) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:12
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:10
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  49/165 ) OI.COM.BR -- chan. (xmltv_id=ESPN) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  50/165 ) OI.COM.BR -- chan. (xmltv_id=ESPNBRASIL) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  51/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=ESPN+) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  52/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=ESPNEXTRAHD) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  53/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=EUROCHANNEL) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  54/165 ) OI.COM.BR -- chan. (xmltv_id=FASHIONTV) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:25
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  55/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=FILMARTS) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  56/165 ) OI.COM.BR -- chan. (xmltv_id=FISHTV) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  57/165 ) OI.COM.BR -- chan. (xmltv_id=FOXPREMIUM1HD) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:06
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:49
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:35
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  58/165 ) OI.COM.BR -- chan. (xmltv_id=FOXPREMIUM2HD) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:47
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:46
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  59/165 ) OI.COM.BR -- chan. (xmltv_id=FOX) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:53
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:19
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:44
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  60/165 ) OI.COM.BR -- chan. (xmltv_id=FX) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:09
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  61/165 ) OI.COM.BR -- chan. (xmltv_id=FUTURA) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:35
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  62/165 ) OI.COM.BR -- chan. (xmltv_id=FOXLIFE) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:18
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  63/165 ) OI.COM.BR -- chan. (xmltv_id=FOXSPORTS) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  64/165 ) OI.COM.BR -- chan. (xmltv_id=FOXSPORTS2) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  65/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=FOODNETWORKHD) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  66/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=FRANCE24HD) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  67/165 ) OI.COM.BR -- chan. (xmltv_id=GLOBONEWS) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  68/165 ) OI.COM.BR -- chan. (xmltv_id=GLOBOSATHD) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  69/165 ) OI.COM.BR -- chan. (xmltv_id=GLOBOSP) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  70/165 ) OI.COM.BR -- chan. (xmltv_id=GLOOB) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:35
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  71/165 ) OI.COM.BR -- chan. (xmltv_id=GLOOBINHO) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:15
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  72/165 ) OI.COM.BR -- chan. (xmltv_id=GNT) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  73/165 ) OI.COM.BR -- chan. (xmltv_id=H2) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:08
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  74/165 ) OI.COM.BR -- chan. (xmltv_id=HBO) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:25
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  75/165 ) OI.COM.BR -- chan. (xmltv_id=HBO2) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:20
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  76/165 ) OI.COM.BR -- chan. (xmltv_id=HBOFAMILY) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:24
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  77/165 ) OI.COM.BR -- chan. (xmltv_id=MAX) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:15
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  78/165 ) OI.COM.BR -- chan. (xmltv_id=HBOPLUS) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:35
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  79/165 ) OI.COM.BR -- chan. (xmltv_id=MAXUP) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:05
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  80/165 ) OI.COM.BR -- chan. (xmltv_id=HBOSIGNATURE) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:32
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:33
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  81/165 ) OI.COM.BR -- chan. (xmltv_id=MAXPRIMEHD) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:03
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  82/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=HGTV) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  83/165 ) OI.COM.BR -- chan. (xmltv_id=LIV) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:39
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  84/165 ) OI.COM.BR -- chan. (xmltv_id=LIFETIME) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:24
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  85/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=LIKEHD) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  86/165 ) VCFAZ.TV -- chan. (xmltv_id=LOVENATUREHD) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  87/165 ) OI.COM.BR -- chan. (xmltv_id=MEGAPIX) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:20
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  88/165 ) OI.COM.BR -- chan. (xmltv_id=MTV) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:50
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  89/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=MTVLIVEHD) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  90/165 ) OI.COM.BR -- chan. (xmltv_id=MULTISHOW) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  91/165 ) OI.COM.BR -- chan. (xmltv_id=MUSICBOXBRAZIL) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:35
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  92/165 ) OI.COM.BR -- chan. (xmltv_id=NATIONALGEOGRAPHIC) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:03
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:33
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:04
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  93/165 ) OI.COM.BR -- chan. (xmltv_id=NATGEOKIDS) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:01
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:39
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:49
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:01
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:23
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:36
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  94/165 ) OI.COM.BR -- chan. (xmltv_id=NATGEOWILDHD) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:42
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:29
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  95/165 ) OI.COM.BR -- chan. (xmltv_id=NGT) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  96/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=NHK) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  97/165 ) OI.COM.BR -- chan. (xmltv_id=NICKELODEON) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  98/165 ) OI.COM.BR -- chan. (xmltv_id=NICKJR) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  99/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=NOW) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 100/165 ) OI.COM.BR -- chan. (xmltv_id=OFFHD) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 101/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=PAIETERNO) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 102/165 ) OI.COM.BR -- chan. (xmltv_id=PARAMOUNT) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:29
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 103/165 ) OI.COM.BR -- chan. (xmltv_id=POLISHOP) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 104/165 ) OI.COM.BR -- chan. (xmltv_id=PLAYBOYTV) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:02
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:31
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 105/165 ) OI.COM.BR -- chan. (xmltv_id=PRIMEBOXBRAZIL) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:27
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 106/165 ) OI.COM.BR -- chan. (xmltv_id=PREMIERECLUBES) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 107/165 ) OI.COM.BR -- chan. (xmltv_id=PREMIERE2) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 108/165 ) OI.COM.BR -- chan. (xmltv_id=PREMIERE3) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 109/165 ) OI.COM.BR -- chan. (xmltv_id=PREMIERE4) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 110/165 ) OI.COM.BR -- chan. (xmltv_id=PREMIERE5) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 111/165 ) OI.COM.BR -- chan. (xmltv_id=PREMIERE6) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 112/165 ) OI.COM.BR -- chan. (xmltv_id=PREMIERE7) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 113/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=RAI) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 114/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=RECORDNEWS) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 115/165 ) OI.COM.BR -- chan. (xmltv_id=REDERECORD) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 116/165 ) OI.COM.BR -- chan. (xmltv_id=REDETV) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 117/165 ) OI.COM.BR -- chan. (xmltv_id=REDEVIDA) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 118/165 ) OI.COM.BR -- chan. (xmltv_id=RIT) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 119/165 ) OI.COM.BR -- chan. (xmltv_id=SBT) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 120/165 ) OI.COM.BR -- chan. (xmltv_id=SHOPTIME) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:55
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 121/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=SIC) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 122/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=SMITHSONIANHD) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 123/165 ) OI.COM.BR -- chan. (xmltv_id=SONY) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 124/165 ) OI.COM.BR -- chan. (xmltv_id=SPACE) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:05
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 125/165 ) OI.COM.BR -- chan. (xmltv_id=SPORTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 126/165 ) OI.COM.BR -- chan. (xmltv_id=SPORTV2) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 127/165 ) OI.COM.BR -- chan. (xmltv_id=SPORTV3) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:40
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 128/165 ) OI.COM.BR -- chan. (xmltv_id=STUDIOUNIVERSAL) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 129/165 ) OI.COM.BR -- chan. (xmltv_id=SYFY) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 130/165 ) OI.COM.BR -- chan. (xmltv_id=TBS) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:38
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 131/165 ) OI.COM.BR -- chan. (xmltv_id=TCM) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:14
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 132/165 ) OI.COM.BR -- chan. (xmltv_id=TELECINEPREMIUM) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:15
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 133/165 ) OI.COM.BR -- chan. (xmltv_id=TELECINEACTION) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:20
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 134/165 ) OI.COM.BR -- chan. (xmltv_id=TELECINECULT) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:05
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 135/165 ) OI.COM.BR -- chan. (xmltv_id=TELECINEFUN) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:25
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 136/165 ) OI.COM.BR -- chan. (xmltv_id=TELECINEPIPOCA) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 137/165 ) OI.COM.BR -- chan. (xmltv_id=TELECINETOUCH) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:10
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 138/165 ) OI.COM.BR -- chan. (xmltv_id=TERRAVIVA) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:15
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:35
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 139/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=THEHISTORYCHANNEL) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 140/165 ) OI.COM.BR -- chan. (xmltv_id=TNT) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:40
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 141/165 ) OI.COM.BR -- chan. (xmltv_id=TNTSERIES) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:14
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 142/165 ) OI.COM.BR -- chan. (xmltv_id=TOONCAST) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:08
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:34
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:01
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:27
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:39
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:56
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 143/165 ) VCFAZ.TV -- chan. (xmltv_id=TRACEBRAZUCAHD) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 144/165 ) OI.COM.BR -- chan. (xmltv_id=TRAVELANDLIVINGCHANNEL) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:42
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:32
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 145/165 ) OI.COM.BR -- chan. (xmltv_id=TRAVELBOXBRAZIL) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 146/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=TVBRASIL) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 147/165 ) VCFAZ.TV -- chan. (xmltv_id=TVBRASIL2) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 148/165 ) OI.COM.BR -- chan. (xmltv_id=TVCMARA) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:15
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:55
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 149/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=TVCULTURA) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 150/165 ) OI.COM.BR -- chan. (xmltv_id=TVESCOLA) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:05
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:40
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:50
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:35
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:50
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 151/165 ) OI.COM.BR -- chan. (xmltv_id=TVESPANHA) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:20
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:55
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:10
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:10
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:05
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:05
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:10
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:55
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:35
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:35
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 152/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=TVGAZETA) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 153/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=TVGAZETAHD) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 154/165 ) OI.COM.BR -- chan. (xmltv_id=TVWA) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:50
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:10
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:55
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:55
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:10
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:50
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:05
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 155/165 ) MEUGUIA.TV -- chan. (xmltv_id=TV5MONDE) -- mode Force
+[Warning ] error downloading page: O tempo limite da operação foi atingido (30sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 156/165 ) OI.COM.BR -- chan. (xmltv_id=TVJUSTIA) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:28
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:01
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:57
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:56
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:57
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:05
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:07
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 157/165 ) OI.COM.BR -- chan. (xmltv_id=TVNOVOTEMPO) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:41
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:46
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:41
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:46
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 158/165 ) OI.COM.BR -- chan. (xmltv_id=TVRTIMBUM) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:20
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:35
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:10
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:20
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:40
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:50
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:50
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:40
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:50
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:35
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:40
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:40
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:50
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:10
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:20
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:40
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:20
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:35
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 159/165 ) OI.COM.BR -- chan. (xmltv_id=TVSENADO) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 160/165 ) OI.COM.BR -- chan. (xmltv_id=UNIVERSAL) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:35
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:25
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:20
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:10
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:50
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:40
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:20
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:10
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:55
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:50
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:25
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:20
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:10
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:05
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:40
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 161/165 ) MEUGUIA.TV -- chan. (xmltv_id=VH1) -- mode Force
+[Warning ] error downloading page: O tempo limite da operação foi atingido (30sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 162/165 ) OI.COM.BR -- chan. (xmltv_id=VIVA) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:40
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:25
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:20
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:35
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:55
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:40
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:20
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:50
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:20
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:10
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:40
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:55
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:40
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 163/165 ) OI.COM.BR -- chan. (xmltv_id=WARNER) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:24
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:54
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:48
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:12
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:40
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:18
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:08
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:31
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:56
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:17
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:39
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:26
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:51
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:16
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:41
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:08
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:34
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:56
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:27
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:53
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:19
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:47
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:13
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:39
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:29
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:57
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:23
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:50
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:17
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:42
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:06
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:28
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:53
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:44
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:09
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:35
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:25
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:04
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:28
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:52
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 164/165 ) OI.COM.BR -- chan. (xmltv_id=WOOHOO) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:15
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 29/06/2021 23:58
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:13
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:26
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:28
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:56
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 00:58
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:28
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:56
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 01:58
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:13
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:26
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:28
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 02:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 03:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 04:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 05:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 06:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:05
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:10
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:20
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:25
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:35
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:40
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:50
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 07:55
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:05
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 08:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:05
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 09:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:05
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 10:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:05
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:44
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 11:58
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 12:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:10
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:25
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:40
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 13:55
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:23
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:25
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:40
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:55
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 14:57
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 15:58
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:26
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:28
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 16:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:14
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:28
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 17:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:02
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:05
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 18:58
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:44
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 19:58
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:26
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:28
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 20:58
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:15
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:17
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:25
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:27
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:44
+[  Debug ]    skipped : show that happened before 'today' @ 30/06/2021 23:58
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 165/165 ) NETCOMBO.COM.BR -- chan. (xmltv_id=ZOOMOO) -- mode Force
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[  Info  ] 
+[  Debug ] 
+[  Debug ] 63195 shows in 165 channels
+[  Debug ] 0 updated shows
+[  Debug ] 63195 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 30/06/2021 21:59:16 done in 4h 51m 14s
